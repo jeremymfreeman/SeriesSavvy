@@ -1,6 +1,6 @@
 # Series Savvy  
 
-## 📖 Overview  
+## Overview  
 **Series Savvy** is a cross-platform mobile app (built with **Flutter/Dart**) that serves as a social platform for TV show enthusiasts, inspired by Letterboxd.  
 
 This project was developed **independently** as my final project for the **Mobile Application Development** course during my sophomore year at California Baptist University.  
@@ -9,7 +9,7 @@ The app combines user-driven social features with external API integration, allo
 
 ---
 
-## ✨ Features  
+## Features  
 - **Cross-Platform:** Built in Flutter, runs on both Android and iOS.  
 - **User Authentication:** Account creation, login, and secure password storage via Firestore.  
 - **Social Features:** Follow users, like reviews, and track what others are watching.  
@@ -20,7 +20,7 @@ The app combines user-driven social features with external API integration, allo
 
 ---
 
-## 🛠 Tech Stack  
+## Tech Stack  
 - **Framework:** Flutter (Dart)  
 - **Backend & Database:** Firebase Firestore  
 - **API:** External TV show API for series/episode/cast data  
@@ -46,7 +46,7 @@ The app combines user-driven social features with external API integration, allo
 
 ---
 
-## 🚀 Getting Started  
+## Getting Started  
 
 ### Prerequisites  
 Before running Series Savvy, make sure you have:  
