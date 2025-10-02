@@ -1,4 +1,4 @@
-package com.example.series_savvy
+package com.example.app
 
 import io.flutter.embedding.android.FlutterActivity
 
