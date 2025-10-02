@@ -25,9 +25,13 @@ The app combines user-driven social features with external API integration, allo
 ### Screenshots  
 
 ![Home Page](docs/screenshots/homepage.png)
+
 ![Profile Page](docs/screenshots/profilepage.png)
+
 ![Show Page](docs/screenshots/showpage.png)
+
 ![Review Page](docs/screenshots/reviewpage.png)
+
 ![Friend Activity Page](docs/screenshots/friendactivitypage.png)
 
 ### Demo GIF  
